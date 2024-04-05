@@ -9,4 +9,5 @@ Now you can do the following things:
 - [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
 
 1. nmp install
-2. npm run dev 
+2. npm run dev
+3. Video guide "How to update the Landing page" : https://youtu.be/N3kX8x7E_Xk
